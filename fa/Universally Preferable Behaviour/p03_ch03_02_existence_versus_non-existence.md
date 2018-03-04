@@ -77,40 +77,40 @@ There are a number of reasons, which can only be touched on here. The first is t
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+سوم اینکه نفوذ دین و تبلیغات، بشر را برای دیدن شرارت دولت، کور کرده است- به همين دليل حاکمان هميشه علاقه مند به پيشبرد منافع کلیسا و "تحصيلات" دولتی هستند. در دنیای دینی، قدرت مطلق مترادف با فضیلت کامل است، به شکل خدا. . با این حال، در دنیای واقعی سیاسی  بشر، افزایش قدرت همیشه به معنی  افزایش شرارت است. با دین، هم چنین، همۀ این اتفاق ها باید برای خوبی باشد - در نتیجه، مبارزه با تخطی قدرت سیاسی، مبارزه با اراده ی خداوند است. البته، بسیاری از دلایل وجود دارد، اما این ها یکی از اصلی ترین ها هستند. [^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+در شروع این بخش، ذکر کردم که مردم، به طور کلی، هنگام رو به رو شدن با ایده ی انحلال دولت *دو* خطا ایجاد میکنند. اولین مورد باور این است که دولت ها بخاطر اینکه مردم شرور وجود دارند، ضروری هستند. مورد دوم این است که در نبود دولت ها، انجمن های اجتماعی که به وجود می آیند، جای دولت ها را میگیرند. در نتیجه، سازمانهای تنازع رای(DROs)، انجمن های بیمه و نیروهای امنیتی خصوصی، همگی مسائل بالقوه ای در نظر گرفته می شوند که موجب تحریک و مضمحل کردن بدنه ی سیاسی میشوند.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+این دیدگاه از همان خطائی که در بالا ذکر شده، بوجود می آید. اگر * همه * موسسات اجتماعی دائما در حال تلاش برای رشد قدرت و تحمیل خواست خود بر دیگران هستند، پس با این استدلال نمی توان حکومت متمرکز را به وجود آورد. اگر این یک قانون مفرغ است که گروه ها همیشه سعی بر کسب قدرت بر دیگر گروه ها و افراد داشته باشند، پس این هوس قدرت،* اگر یکی از آنها پیروز شود، پایان نخواهد یافت. و در سراسر جامعه انتشار خواهد یافت تا برده داری، یکی از اصول پایه شود. * 
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+تنها راه اینکه نهاد های اجتماعی می توانند به انحصارات خشونت آمیز تبدیل شوند،*انتقال هزینه های اجرایی به قربانیان آنها* است. دولت ها بی وقفه رشد میکنند زیرا به جمع آورندگان مالیات با بخشی از مالیاتی که جمع میکنند، هزینه می پردازند. در نتیجه بردگان نیز مجبورند برای بردگی خود، هزینه بپردازند.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+در یک جامعه داوطلبانه هیچ مالیاتی وجود نخواهد داشت و بنابراین هر گروهی که مایل به کسب قدرت انحصاری می شود، باید پول ارتش خود را بپردازد که هرگز از لحاظ اقتصادی امکان پذیر یا منفعت پذیر  نخواهد بود. [^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+فهمیدن قانون و هوش این استدلال بسیار سخت است که به منظور محافظت از ما در مقابل گروهی که*ممکن است* بر ما حکمرانی کند، باید از گروهی که *قبلا* بر ما حکمرانی کرده است، پشتیبانی کنیم. این شبیه استدلال سیاستمدارانه درباره ی قدرت های منحصر به فرد شخصی است- که شهروندان باید یک قدرت منحصر به فرد خصوصی ایجاد کنند زیرا آنها از قدرت های منحصر به فرد خصوصی میترسند. این دیدگاه مشتاق را از طریق چنینی چنین مزخرفی نمیبیند.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+چه مدرکی برای نمایش اینکه قدرت های غیر متمرکز و  اهل رقابت، صلح را تقویت میکند، وجود دارد؟ به عبارت دیگر، آیا حقایقی وجود دارد که بتوانیم از آنها برای پشتیبانی از ایده اینکه تعادل قدرت تنها انتخاب برای فرد به منظور داشتن آزادی است، ارائه دهیم؟
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+جرایم سازمان یافته مثال های خوبی را فراهم نمیکنند زیرا باند ها مرتبا فساد میکنند، قدرت پلیس دولتی را ایجاد و از آن برای اجرای قوانین خود استفاده میکنند؛ پس نمی توان گفت که این باند ها در حالت طبیعی عمل میکنند. همچنین، باند های جنایتکار، با تهیه مواد یا خدمات ممنوعه قانونی سود بسیار زیادی می برند؛ و به خاطر حالت پلیس، بصورت عمده ای شکوفا میشوند.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+یک نمونه مفید تر این است که هیچ رهبری تا کنون به رهبر دیگری که دارای سلاح هسته ای است، اعلام جنگ نکرده است. در گذشته، هنگامیکه رهبران خود را از حملات شخصی در امان میدانستند، برای کشتن جمعیت خود توسط اعلان جنگ مشتاق تر بودند. اکنون آنها خودشان به نابودی محکوم شده اند، آنها فقط دوست دارند به کشور هایی حمله کنند که قدرت حمله ندارند.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+این یک درس آموزنده است که چرا چنین مردمی به جمعیت خلع سلاح و وابسته نیاز دارند - و نمونه خوبی از چگونگی ترس انتقامجویانه ذاتی در سیستم متعادل قدرت های غیر متمرکز و رقابتی * تنها روش اثبات شده برای تأمین و حفظ آزادی شخصی * است.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+فرار از شیاطین خیالی به زندان های محافظتی دولت ها، تنها تخریب بسیاری از آزادی هایی را که به زندگی ،ارزش زندگی کردن می دهد؛ حتمی میکند.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: دیدن [اغتشاش کاربردی ](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: دیدن *[فدرال رزرو](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: تعادل کامل خوب و بد تقریبا غیرممکن است.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: البته این وضعیت فعلی در دموکراسی هاست.
 
-[^8]: See Plato’s *Republic*.
+[^8]: * جمهوری * افلاطون را ببینید.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: به احتمال زیاد، از زمانیکه که افراد شرور همیشه به قدرت کشیده می شوند.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: برای بحث دقیق تر در مورد نقش * والدین * در تحریک فانتزی که "قدرت برابر با فضیلت است" ببینید [در حقیقت](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: دیدن [اغتشاش کاربردی ، قسمت2] (http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), فصل 5: "جنگ، سود و دولت".
