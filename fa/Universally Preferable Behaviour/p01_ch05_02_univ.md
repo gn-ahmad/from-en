@@ -20,7 +20,7 @@
 
  بعنوان مثال : همه چیز در معرض قوانین فیزیکی است و هر چیزی که زندگی می کند در معرض نیازهای خاص است و بنابراین اگر آن زنده باشد ، رفتارهای مطلوب جهانی را دنبال کرده است . برای مثال زنده بودن نیازمند سوخت و اکسیژن است . البته هر ذهن زنده ای یک بخش ارگانیک از دنیای فیزیکی است و بنابراین در معرض قوانین فیزیکی است و باید رفتارهای مطلوب جهانی را دنبال کرده باشد . بحث کردن به غیر از این نیاز مند شواهد و مدارکی است که طبق آن هوشیاری متشکل از ماده نیست و یک ارگانیک نیست . یک عدم امکان این است که آن جرم، ارزش و زندگی دارد . بحث کردن درباره اینکه هوشیاری نه در معرض قوانین فیزیکی و نه رفتارهای مطلوب جهانی است مانند این است که بگوییم .انسانها به جاذبه زمین ایمن هستند و می توانند بدون غذا رشد کنند
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking. 
 
 Syllogistically, this is:
 
