@@ -58,70 +58,70 @@
 
 ### دولت، مذهب و UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+هنگامی که چهارچوب UPB را می گیریم و آن را به فرضیات اخلاقی با توجه به دولت و مذهب اعمال می کنیم، نتایج بسیار جالبی رخ می دهد.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+گزاره ای که اغلب برای توجیه قدرت حکومت استفاده می شود، این است:"دولت حق دارد که پول شما را بگیرد." هرچند که این، یک بیانیه کاملا ناقص و دروغ است. "دولت" حق ندارد که پول شما را بگیرد، زیرا "دولت" صرفا یک مفهوم و یک تعریف انتزاعی از خود تعریف شده ی گروهی از مردم اسم. UPB بیانیه ای پایدارتر و عینی تر می خواهد. از آنجایی که قوانین اخلاقی باید برای همه در همه ی مکان ها و در هر زمان یکسان باشد، ما باید قانون را به این شکل بازنویسی کنیم:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"*انسان ها می توانند به طور اخلاقی ، از دیگر انسانها، پول بگیرند؛ اگر یک پیشکار مفهومی ایجاد کنند که اعمال آنها را توجیه کند.*"
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+اگر به اتاق آزمایشی اخلاق خود و باب و داگ بازگردیم، خیلی سریع متوجه می شویم که این یک گزاره ی غیرممکن است.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+اگر باب به داگ بگوید:" من اکنون نماینده ی مفهوم ایده آل 'FUBAR'هستم، که به طور کامل مرا توجیه می کند که چراغ قوه ی تو را بگیرم. از آنجا که اکنون تو به من چراغ قوه را بدهکار هستی، باید آن را به من بدهی یا من مجبور می شوم که با زور، آن را از تو بگیرم."
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+واکنش داگ چه خواهد بود؟ به یاد داشته باشید که طبق UPB هرآنچه که برای باب نامعتبر است، برای داگ نیز نامعتبر می باشد. ناچارا، داگ پاسخ خواهد داد:"اوه آره؟ خب *من* اکنون نماینده ی مفهوم ایده آل ‘ANTI-FUBAR,’هستم که به طور کامل باز پس گیری چراغ قوه ام را توجیه می کند. از آنجا که تو اکنون هیچ حقی برای گرفتن چراغ قوه ی من نداری، اگر سعی کنی که آن را بگیری، من مجبور خواهم شد برای دفاع از خودم از زور استفاده کنم."
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+همانطور که می بینید، اگر *باب* حق این را داشته باشد که تعهدات خیالی تشکیل دهد و آنها را به داگ تحمیل کند، پس *داگ* هم حق این را دارد که تعهدات خیالی تشکیل دهد و آنها را به باب تحمیل کند. واضح است که بلافاصله ، ما به یک بیانیه ی کامل برمی خوریم. اگر این اخلاقی است که تعهدات من درآوردی را به دیگران تحمیل کنیم، اما اگر *همه* این استعداد را داشته باشند، این غیرممکن خواهد بود؛ پس اخلاقیات غیرممکن خواهند شد. تنها راهی که باب می تواند تعهدات من درآوردی خود را به داگ تحمیل کند، این است که داگ ، اجرای قوانین من در آوردی خود را بر روی باب رد کند - بنابر این، ما موقعیتی داریم که در آن، چیزی که برای یک نفر اخلاقی است، می تواند توسط شخص دیگری که در حالت ضد اخلاق عمل می کند، به دست آید. در نتیجه، فضیلت تنها می تواند از طریق فساد، که غیر ممکن است، فراهم شود - و ما مخالف قوانین اخلاقی برای ۲انسان در موقعیت، هستیم که UPB آن را فورا به عنوان نامعتبر رد می کند.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+به عبارت دیگر، هر توجیه انتزاعی خیالی برای استفاده از اجبار، می تواند با توجیه انتزاعی خیالی دیگری برای استفاده از اجبار، رو به رو شود. اگر من یک دوست خیالی داشته باشم که بتواند هرچیزی را که انجام می دهم، توجیه کند، پس *شما* نیز می توانید یک دوست خیالی داشته باشید که هرچیزی را که انجام می دهید، توجیه کند. بنابراین، هیچ یک از ما توانایی تحمیل تعهدات خیالی خود را بر دیگران نداریم.
 
-#### Religion And UPB
+#### مذهب و UPB
 
-The same holds true for religion.
+همین امر، برای دین نیز صادق است.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+بیانیه:" شما باید از من اطاعت کنید زیرا این خواست خداوند است." باید به صورت درست تر، این چنین بیان شود:" موجودی که من ایجاد کرده ام، می خواهد که از من اطاعت کنید." اصلی که UPB می خواهد، این است:"انسانها باید تعهدات مثبت انتخاب نشده را به دیگران تحمیل کنند و آن تعهدات را از طریق موجودات خیالی توجیه کنند."
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+در اینجا، ما مسائل مشابه بالا را می بینیم. باب به داگ می گوید :"تو باید چراغ قوه ات را به من بدهی زیرا دوست خیالم این را از تو می خواهد." طبیعتا داگ پاسخ می دهد:" تو نباید ازمن برای چراغ قوه ات درخواست کنی، زیرا دوست خیالی من این را از تو می خواهد. اگر "احکام" باب معتبر باشند پس "احکام" داگ نیز همانند او، معتبر خواهند بود؛ بنابراین یکدیگر را لغو می کنند.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+به همین ترتیب اگر فردی ادعا کند که ایده ی او که "دوست" نامیده می شود، سرقت او از اموال مرا توجیه می کند، پس من می توانم ادعا کنم که ایده ی من که "ضد دولت" نامیده می شود، "حفاظت" من از اموالم را توجیه می کنم؛ و هردو ما در توجیهات خود، به طور یکسان، "معتبر" هستیم.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+پس اگر جمع کننده ی مالیاتی ادعا کنند که ایده ی او که "دولت" نامیده می شود، فقط سرقت او از اموال من ، و نه حفاظت من از آن را، توجیه می کند، پس ما بیشتر از آن پیش نمی رویم. او می تواند هزار دلار مرا بگیرد اما بعد، من می توانم ایده ی خود را به "سرقت" باز گردانم که پول را به من برگرداند و نظریه ی اخلاقی او به ما توصیه می کند که بقیه ی بازگرداننده ی ابدی را خرج کنیم و از هزار دلار بیشتر برویم.
 
-#### UPB And "The Majority"
+#### UPB "و "اکثریت
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPBانباشت افراد را برای پایمال کردن یا معکوس کردن اموال هر شخص، مجاز نمی کند.ده شیر ، یک فیل ، یک دولت یا یک خدا ایجاد نمی کند. ده هزار سرباز ممکن است بتوانند یک "ارتش"را بوجود اورند اما نمی توانند گرانش را معکوس کنند یا قتل را اخلاقی کنند.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+برای آخرین بار، به اتاق باب و داگ برمی گردیم، بیایید "جین" را معرفی کنیم.
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+اکنون که در اتاق سه نفر وجود دارد، می توانیم به اصل "قانون اکثریت" نگاه کنیم.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+اگر باب، داگ و جین "رای" بگیرند که آیا تجاوز به جین اخلاقی است یا نه، ما همه به این فرض غیر اخلاقی و ناعادلانه واکنش نشان خواهیم داد. واضح است که حتی اگر جین "رای نیاورد" نمی توانیم این نتیجه را به عنوان یک عمل خوب در نظر بگیریم. 
 
-Why not?
+چرا که نه؟
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+خب، UPB واقعیت تجمع را به رسمیت نمی شناسد. از آنجا که "اکثریت"، یک برچسب صرفا مفهومی است، در واقعیت بیشتر از "خدایان" یا "دولت ها" وجود ندارند. بنابراین، ادعای اینکه"اکثریت" هیچ نوع پایه اخلاقی ندارد، کاملا نامعتبر است. - این مانند آن است که بگوییم "سرزمین پدری" می تواند یک زن را باردار کند، یا آن یکی می تواند در کلمه ی "صندلی" بنشیند.
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+اگر بگوییم که "اکثریت" دارای حقوق یا ویژگی هایی هستند که مستقیما با حقوق یا ویژگی های هر فرد مخالف هستند، همچنین با اصول منطقی مخالف هستند؛ زیرا هر گروه بندی مفهومی فقط با شناسایی دقیق از ویژگی های فردی معتبر است. اگر من بگویم که "چهارپایان" موجودات زنده خون گرم هستند، آیا قانونا می توانم سه فلامینگو پلاستیکی را در دسته "چهارپایان" قرار دهم؟
 
-Of course not.
+البته که نه.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+بنابر این، اگر تجاوز کردن برای انسان بد است، آیا من قانونا می توانم دسته ای را به نام " اکثریت" ایجاد کنم و سپس ادعا کنم که اکنون برای *این * انسانها تجاوز کردن از نظر اخلاقی خوب است؟
 
-Of *course* not.
+البته* که نه*. 
 
-### Majority Rule
+### قانون اکثریت
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+آیا می توانم یک قانون اخلاقی ایجاد کنم که بگوید:" اکثریت باید هر کاری را که می خواهد انجام دهد"؟
 
-Of course I can, but it will never be valid or true.
+البته که می توانم اما آن هرگز معتبر یا درست نخواهد بود.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+فقط * افراد * عمل می کنند - "اکثریت" هرگز کاری انجام نمی دهد. اگر قوانین اخلاقی می تواند زمانی که شمار مشخصی از مردم با هم متحد شوند، تغییر کند، UPB به طور مداوم نقض می شود.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+اگر برای باب و داگ اخلاقی است که به جین تجاوز کنند زیرا او"رای کمتری" آورده است، اگر دو دوست جین بیایند و برخلاف باب و داگ رای بدهند، برای تمایل شیطانی باب و داگ چه اتفاقی خواهد افتاد؟
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+خب، به صورت ناگهانی، باب و داگ رای کمتری خواهند داشت و تجاوز برای آنها به "شرارت" تبدیل می شود.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+هیچ چیز مهمی در این سناریوی "رای آوردن " تغییر نکرده است. اما ما یک سری از قوانین اخلاقی مخالف برای همان فرد داریم - یک نقض UPB است و در نتیجه نامعتبر است. 
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+تجاوز  فقط به خاطر اینکه چند دست در رای گیری بالا و پایین برود، نمی تواند خوب ، سپس شر، و دوباره خوب باشد.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+اگر شما فکر کنید که به نظر می رسد "قانون اکثریت" یک فرضیه ی اخلاقی منطقی است، و یک نظریه اخلاقی کاملا معتبر است، پس، من متاسفم که شما مجبور شوید برگردید به اول این کتاب و آن را دوباره بخوانید!☺
