@@ -1,81 +1,81 @@
-### Practicality
+### عملی بودن
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+هنگامی که خشونت دولت برای یک بار به صورت ذهنی در معرفی دید قرار گرفت،– و "داوطلبی" شهروندان به عنوان یک کلاه برداری نادرست آشکار شد– این استدلال باز می گردد که ما به دولت برای عرضه ی کالاهای عمومی مانند حفاظت، دفاع منطقه ای، جاده و ... *نیاز* داریم.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+من ده ها مقاله برای کذب این موقعیت نوشته ام، بنابراین آن استدلال ها را در اینجا تکرار نخواهم کرد؛ زیرا آنها برای کتابی درباره ی اخلاق ضروری نیستند بلکه برای کتابی که اصول و کاربردهای عملی جامعه ی داوطلبانه را توضیح می دهد، مناسب تر است. [^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+"استدلال از عملی بودن" به هیچ وجه مسئله ی خشونت را حل نمی کند. اگر من شما را هر روز در حال خوردن ساندویچ چیزبرگر ببینم، می توانم به شما بگویم که برایتان غیرممکن است که در وزن سلامتی بمانید. به دلایلی که قبلا به آنها رسیده ایم، نمی توانم ادعا کنم که خوردن چیزبرگر برای شما بد است. من نمی توانم شما را از طریق زور اجبار کنم که "کاربردی بودن" اعمال خود را افزایش دهید.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+بنابراین، گفتن اینکه دولت موظف است ما را مجبور کند که "عملی تر" کار کنیم، کاملا غلط است، که توسط چهارچوبUPB تایید شده است- حتی اگر تصور کنیم که راه حل های دولتی "عملی تر" هستند؛ که در واقع نیستند.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+همچنین، اگر نمایندگان دولت اظهار کنند که قرارداد اجتماعی به آنها اجازه می دهد تا جمعیت "غیر کاربردی" را مجبور کنند "کاربردی تر" رفتار کنند، یک تضاد غیرقابل تحمل ایجاد می شود.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+اگر من زنی را مجبور کنم تا با مردی که من انتخاب کرده ام ازدواج کند، پس به طور روشنی من معتقدم که من به مراتب از قضاوت بهتری درباره ی مناسب بودن همسر برای آن زن ، نسبت به خود او برخوردارم. در حقیقت، من اعتقاد دارم که او دارای عقل و خرد نیست و یا هیچ نشانه ای از علایق خود ندارد؛ زیرا من هیچ حسابی بر روی ترجیحات او باز نمی کنم، اما او را مجبور می کنم با مردی که من انتخاب کرده ام ازدواج کند.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+وقتی این زن را مجبور به ازدواج می کنم، می توانم فقط استفاده از اجبار را – حتی در موارد فوری و عملی – توسط ادعای اینکه او از نظر عقلی ناتوان است تا بتواند انتخاب خود را برای ازدواج انجام دهد، توجیه کنم.
 
-If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
+اگر زن از نظر عقلی ناتوان است تا بتواند انتخاب خود را برای ازدواج انجام دهد، پس واضح است که او هم چنین *از لحاظ ذهنی برای محول کردن نماینده ای برای انجام انتخاب او نیز ناتوان است*. اگر او نمی دانست چه چیزی یک شوهر خوب و مناسب را تشکیل می دهد، پس چگونه می تواند مرا برای تصمیم گیری اینکه چه کسی شوهر خوب یا مناسب برای او است، ارزیابی کند؟
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+اگر مردی با بهره ی هوشی فوق العاده کم، مفهوم "سلامتی" را نمی فهمد، منطقی است که از او انتظار داشته باشیم در انتخاب یک دکتر عقلانی عمل کند؟ به منظور انتخاب با صلاحیت یک دکتر ، ما باید مفهوم سلامتی، کارایی، هزینه، حرفه ای بودن و غیره را درک کنیم. به همین ترتیب، اگر من به زنی اجازه ندهم درباره ی اینکه با چه کسی ازدواج می کند، چیزی بگوید ، پس من باید اعتقاد داشته باشم که او هیچ فهمی از یک همسر خوب ندارد. - اما اگر هیچ فهمی از اینکه چه چیزی یک شوهر مناسب را تشکیل می دهد، نداشته باشد، پس او هیچ ظرفیتی برای انتقال این انتخاب به من ندارد؛ زیرا هیچ راه برای ارزیابی معیار *من* برای اینکه چه چیزی یک شوهر خوب را می سازد، ندارد.
 
-If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
+اگر نمی توانم تصمیم بگیرم که خانه ام را چگونه رنگ آمیزی کنم، و راه حل من این است که با نقاش قراردادی ببندم که به او اجازه دهد برایم رنگ را انتخاب کند، - و در آن قرارداد، من تمام آزادی های آینده ام را برای مقاومت در برابر تصمیمات او، امضا کنم و به او این حق را بدهم که اگر مخالف تصمیم او بودم، او می تواند مرا بدزدد و برده ی خود کند، یا پرداخت از آن اجتناب کند - پس واضح است که من دارای عقل سلیم نیستم. اگر من به کسی این قدرت را بدهم که مرا * برای باقی زندگی ام* اجبار کند، روشن است که من معتقدم صلاحیت اینکه تصمیماتم را خودم اتخاذ کنم، ندارم.
 
-If I do not think that I am competent to make my own decisions, then clearly my decision to subject myself to violence *for the rest of my life* is an incompetent decision.
+اگر فکر نمی کنم که مجبورم تصمیماتم را خودم بگیرم، واضح است که تصمیمم برای مجبور کردن خودم به خشونت *برای باقی عمرم* یک تصمیم از روی بی کفایتی است.
 
-Either I am capable of making competent decisions, or I am not. If I *am* capable of making competent decisions, then subjecting myself to force for the rest of my life is invalid. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+خواه من قادر به گرفتن تصمیمات با کفایت باشم، خواه نباشم، اگر من قادر به گرفتن تصمیمات با صلاحیت *هستم*، پس تحمیل کردن اجبار به خودم برای باقی زندگی ام، بی معنا است. اگر من قادر به گرفتن تصمیمات با صلاحیت *نیستم*، پس، تصمیم من برای تحمیل اجبار  به خودم برای باقی زندگی ام، باز هم بی معنا است.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+حتی اگر ملاحظات بالا به نحوی کنار گذاشته شوند، با این حال، این غیرممکن است که فقط یک قرارداد اجتماعی توسط دولت اجرا شود. واضحا، من نمی توانم یک قرارداد را از *طرف شما* یا از طرف فرزندانم امضا کنم که برای بقیه زمان ها، برای شما یا آنها لازم الاجرا باشد. نمی توانم یک اتومبیل بخرم و صورت حساب را برای شما بفرستم و فقط بخواهم که شما آن را پرداخت نمایید. اگر من ادعای اینکه قدرت قرارداد یک جانبه را به شما تحمیل کند، داشته باشم، UPB نیز این قدرت را به *شما* تحمیل می کند و پس از آن، شما این قرارداد را با اسم من، به من خواهید برگرداند.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+به همین ترتیب، اگر من انتخاب کنم که مالیاتم را به صورت داوطلبانه بپردازم، نمی توانم این انتخاب را به شما تحمیل کنم، زیرا یک قرارداد داوطلبانه، صرفا یک ترجیح شخصی است و نمی تواند به صورت جهانی از طریق خشونت اعمال شود.
 
-### The Necessity Of The State?
+### ضرورت دولت؟
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+این سوال کلی، زمانی که ما به رایج ترین "توجیهات" اخلاقی برای قدرت دموکراسی دولت ها نگاه می کنیم، که بر اساس "اراده ی اکثریت است" شگفت انگیز تر می شود.
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+اول از همه، "اراده"، یک جنبه از فرد است ؛ در حالی که "اکثریت" یک برچسب مفهومی برای گروه است. "اکثریت" نمی تواند "اراده ای" بیشتر از یک "خط هم سرایی" که می تواند "تولد بدهد" داشته باشد. اگر به این شک دارید، فقط ساختن یک خانه ی درختی با مفهوم جنگل، نه با هر قطعه چوب خاص، را امتحان کنید.
 
-Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
+دو اعتراض اضافی همواره هنگامی که سئوال ضرورت دولت ها پیش می آید‌، تکرار می شود. اول اینکه یک جامعه ی آزاد هنگامی ممکن می شود که مردم به طور کامل خوب یا منطقی باشند - به عبارت دیگر، این شهروندان به یک دولت متمرکز *نیاز* دارند زیرا مردم بد هم در جهان وجود دارند.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+اولین و واضح ترین مشکل با این موفقیت این است که اگر من بد نیز در جامعه وجود دارند، آنها در دولت نیز وجود خواهند داشت - و در آنجا خیلی خطرناک تر می توانند باشند. شهروندان در برابر افراد بد می توانند از خود محافظت کنند اما هیچ فرصتی در برابر دولت تهاجمی مسلح به دندان با نیروهای پلیس و نظامی باقی نمی ماند. به این ترتیب، استدلال اینکه ما به دولت به خاطر اینکه آدم های بد وجود دارند، نیازمندیم، اشتباه است. اگر مردم بد وجود داشته باشند، دولت *باید* بی مصرف باشد؛ زیرا مردم بد، از قدرت آن برای رسیدن به اهداف خود استفاده می کنند - و ، برخلاف اراذل و اوباش شخصی، افراد بد در دولت دارای پلیس و ارتش هستند تا هوی و هوس خود را بر مردم درمانده (و نسبتا خلع سلاح) تحمیل کنند. پس این استدلال، وابسته به ایده ی "جاعلان مهر بسیار خطرناک هستند پس ما باید یک حق منحصر به فرد را نسبت به جعل مهر به گروه کوچکی از افراد فراهم کنیم" است. در کجای زمین مردم فکر می کنند که جاعلان برای اولین بار خواهند رفت؟[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+از نظر منطقی، ۴دلیل برای مخلوط کردن افراد خوب و بد در جهان وجود دارد:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. همه ی انسان ها اخلاقی هستند.
+2. همه ی انسان ها غیراخلاقی هستند.
+3. اکثریت افراد غیر اخلاقی واقعیت آنها اخلاقی هستند.
+4. اکثریت افراد اخلاقی واقعیت آنها غیر اخلاقی هستند. [^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+در مورد اول (*همه ی انسان ها اخلاقی هستند*)، دولت به وضوح مورد نیاز نیست؛ زیرا شرارت نمی تواند وجود داشته باشد.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+در مورد دوم، (*همه ی انسان ها غیر اخلاقی هستند*)، دولت نمی تواند برای یک دلیل ساده مجاز به وجود باشد. دولت، به طور کلی استدلال می شود، باید وجود داشته باشد زیرا مردم بد که تمایل به تحمیل ضرر دارند، وجود دارند. و چه کسی از طریق ترس از مجازات حکومت(پلیس، زندان ها و غیره)، توقیف می شود؟ یک اصل تبعی از این استدلال این است که هرچه این مردم کمتر از مجازات بترسند، شرارت بیشتری انجام خواهند داد.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+با این حال، به *خود* دولت، هیچ اجبار یا مجازاتی تحمیل نمی شود، اما قانونی برای خودش است. حتی در دموکراسی های غربی، چند پلیس و سیاستمدار به زندان می روند؟
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+بنابراین، اگر افراد شرور، تمایل به آسیب رساندن داشته باشند، اما فقط از طریق اجبار توقیف می شوند، پس جامعه *هرگز* اجازه نمی دهد که دولت وجود داشته باشد؛ زیرا مردم بد مشتاقانه برای گرفتن کنترل آن دولت، کار می کنند تا بدی کنند و از مجازات در نیز اجتناب کنند. پس از آن، در جامعه ای از بدی خالص، تنها امید به ثبات، یک وضعیت طبقاتی خواهد بود؛ جایی که مسلح شدن عمومی و ترس از مجازات، قصد و نیت شر گروه های مختلف را کاهش می دهد. همانطور که در بین ملل مسلح هسته ای، "تعادل قدرت" صلح را بوجود می آورد.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+سومین احتمال این است که *بیشتر* مردم بد هستند و فقط تعداد کمی از آنها خوب هستند، اگر این مورد باشد، پس دولت بازهم اجازه وجود ندارد؛ زیرا اکثر کسانی که کنترل دولت را بدست خواهند گرفت، شرور هستند و به صورت مستبدانه بر اقلیت مردم خوب، حکمرانی می کنند. دموکراسی در موارد خاص نمی تواند مجاز باشد؛ زیرا اقلیت مردم تحت انقیاد کنترل دموکراتیک مردم بد قرار میگیرند. مردم بد، کسانی هستند که میخواهند بدون ترس از مجازات، ضرر برسانند و ناچارا کنترل دولت را به دست خواهند گرفت و از قدرت خود برای انجام آزادانه کارهای شر، بدون ترس از عواقب آن، استفاده می کنند. 
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+مردم خوب به صورت اخلاقی عمل نمیکنند، زیرا از مجازات هراسانند اما به خاطر اینکه فضیلت و آرامش ذهن را دوست دارند،- و در نتیجه، مردم بد را دوست ندارند، آنها چیز کمی از کنترل دولت به دست می آورند. در نتیجه، در این سناریو، دولت ناچارا توسط اکثریت مردم بد اداره می شود که میخواهند بر همه حکمفرمانی کنند و به همه ی مردم اخلاق مدار ضرر برسانند. 
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+گزینه ی چهارم این است که اکثر مردم خوب باشند و تعداد کمی از آنها شرور باشند. این امکان نیز به همان مشکلاتی که در بالا خلاصه شد، تعمیم داده میشود. قابل توجه است که مردم بد، همیشه خواهند خواست کنترل دولت را به دست بگیرند تا از خود در برابر مجازات جرایمشان محافظت کنند. این گزینه فقط *ظاهر* دموکراسی را عوض میکند: زیرا اکثریت مردم خوب هستند. جویندگان قدرت شرور، باید برای بدست آوردن قدرت به آنها دروغ بگویند، و سپس، بعد از بدست آوردن مقامات دولتی، ناگهان وفاداری خود را میشکنند و دستور جلسه های فاسد خود را ، با اجرای خواسته های شان توسط پلیس و ارتش، دنبال میکنند. [7^]  بنابراین، دولت، بزرگترین جایزه برای افراد شرور باقی می ماند که میخواهند قدرت بی همتای آن را- به ضرر همه ی افراد خوب- در دست بگیرند. پس دولت در این سناریو نیز نمی تواند مجاز به وجود باشد. 
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+در نتیجه، این روشن است که هیچ موقعیتی که تحت آن دولت از نظر اخلاقی یا قانونی، مجاز به وجود باشد، ومود ندارد. تنها توجیه ممکن برای وجود دولت این است که اکثریت مردم بد باشند؛ ولی همه ی قدرت دولت، همیشه توسط اقلیت مردم خوب اداره شود.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+این موقعیت در حالیکه از نظری تئوری جالب است، از نظر منطقی رد میشود، زیرا:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. اکثریت شرور به سرعت از اقلیت رای بیشتری می آورند یا از طریق کودتا بر آنها غلبه پیدا می کنند.
+2. هیچ راهی وجود ندارد که اطمینان حاصل شود که فقط مردم خوب همیشه دولت را اداره می کنند؛ و،
+3. مسلما از اتفاق افتادن چنین چیزی در هیچ تاریخچه ظالمی از تاریخ وجود ندارد.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+خطای منطقی ای که همیشه در دفاع از دولت ایجاد شده، تصور این است که هر قضاوت اخلاقی مشترک که به هر گروهی از مردم اعمال می شود، *بر گروهی که به آنها حکمفرمانی میکند، اعمال نمی شود.* اگر پنجاه درصد مردم بد هستند، * حداقل * پنجاه درصد از افرادی که بر آنها حکومت می کنند نیز بد هستند. [9^] بنابراین وجود شرارت هرگز نمی تواند وجود یک دولت را توجیه کند.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+اگر هیچ بدی وجود ندارد، دولت ها غیر ضروری هستند. اگر شر وجود دارد، دولت ها برای موجود بودن، بسیار خطرناک هستند.
 
-Why is this error so prevalent?
+چرا این خطا خیلی شایع است؟
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+تعدادی از دلایل وجود دارد که تنها در اینجا می توان آن ها را استفاده کرد. اول این است که دولت خود را به عنوان معلمان مدرسه عمومی معرفی می کند که به عنوان مقامات اخلاقی در نظر گرفته می شوند. بنابراین * اخلاق * و * اقتدار * در ابتدا با دولت مرتبط است - یک انجمن است که پس از سال ها تکرار مداوم اجرا می شود.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+دوم این است که دولت هرگز بچه ها راجع به ریشه قدرتش - خشونت - نمی آموزد بلکه به جای آن،  وانمود می کند که این فقط یک نهاد اجتماعی دیگر است، مانند یک کسب و کار یا یک کلیسا یا یک خیریه، اما بیشتر اخلاقی است.
 
 The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
